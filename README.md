@@ -1,2 +1,2 @@
 # sigma-batch
-This is a demo for Git &amp; Git-hub class
+This is a demo for Git & Git-hub class.
